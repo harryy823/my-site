@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+  color: #40514E
+}
+
+
+h1{
+  color: #66BFBF;
+  font-size:5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  /* line-height: 2; */
+}
+
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight: normal;
+  padding-bottom:10px;
+}
+
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 30px;
+}
+
+
+p{
+  line-height: 2;
+}
+
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+hr{
+  border-style: none;
+  border-top:8px dotted #069A8E;
+  width: 6%;
+  margin : 120px auto;
+}
+.top_cont{
+  position: relative;
+  background-color: #D4ECDD;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.middle_cont{
+  padding-bottom: 100px;
+}
+.contact-me{
+  width: 30%;
+  margin: auto;
+}
+.cont{
+  margin: auto;
+  padding-bottom: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 40px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999A);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999A);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999A);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+  /* align-self: center; */
+}
+
+
+.t_cloud{
+  position: absolute;
+  right:400px;
+  top: 50px;
+}
+
+
+.b_cloud{
+  position: absolute;
+  left: 300;
+  bottom: 300px;
+}
+
+
+.mypic{
+  width: 20%;
+}
+
+
+.pythonpic{
+  width: 27%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.cpppic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
